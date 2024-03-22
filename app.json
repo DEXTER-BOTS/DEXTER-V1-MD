@@ -1,6 +1,6 @@
 {
-  "name":"FLASH-MD",
-  "description":"An easy and simple WhatsApp bot developed by France King",
+  "name":"DEXTER-MD",
+  "description":"An easy and simple WhatsApp bot developed by DEXTER",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
   "repository":"https://github.com/franceking1/Flash-Md",
@@ -15,7 +15,7 @@
     },
     "AUTO_READ_STATUS":
     {
-      "description":"Your dexter status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
+      "description":"ඔයාට Auto status seen වෙන්න ඔන නම් yes දෙන්න නැතම් No",
       "value":"yes",
       "required":false
     }, "AUTO_DOWNLOAD_STATUS":
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"FLASH-MD",
+      "value":"DEXTER-MD",
       "required":false
 
     } ,
@@ -64,7 +64,7 @@
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID , make sure it starts with eyJub2I...",   
+      "description":"ඔයාගෙ session id එක දෙන්න ► eyJub2I...",   
       "value":"",
       "required": true
 
@@ -74,18 +74,18 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "DEXTER"
   },
     "OWNER_NUMBER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+    "desc": "ඔයගේ whatsapp number එක ගහන්න (exemple of togo '94')",
     "required":false,
-    "value": "254751284190"
+    "value": "94789958225"
   },
     "WARN_COUNT":
   {
-    "desc": "this is the limit of warn for warning commandes",
+    "desc": "Dont change ⚔",
     "required": false,
     "value": "3"
   },
@@ -96,10 +96,9 @@
     "value": "yes"
   },
   "PRESENCE":{
-    "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
+    "description":"1 Online / 2 typing / 3 recording audio...",
     "value":"",
-    "required": false
-  }  
+    "required" : true,
   },
  
   "formation": {

@@ -4,8 +4,7 @@
 
 
 
-<img src="[https://ibb.co/pjdhLNL]" width="700" height="300"/>
-
+<img src="https://ibb.co/pjdhLNL"
 
 
 ### Setup

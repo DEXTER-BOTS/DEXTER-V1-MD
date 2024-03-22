@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *FLASH-MD by France King is alive*`
+ *DEXTER-MD by Rcd team is alive*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {

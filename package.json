@@ -1,5 +1,5 @@
 {
-  "name": "FLASH-MD",
+  "name": "DEXTER-V1-MD",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Flash-Md",
+    "Dexter-Md",
     "whatsapp",
     "whatsapp-bot",
-    "franceking1"
+    "dexter"
   ],
-  "author": "France King",
+  "author": "Dexter",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",

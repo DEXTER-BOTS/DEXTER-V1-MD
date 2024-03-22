@@ -23,7 +23,7 @@ async function getytlink(key) {
   }
 }
 
-module.exports = getytlink;
+module.exports = එවන්න yt video url;
 
 /* fonction pour télécharger les videos avec ytdl-core*/
 

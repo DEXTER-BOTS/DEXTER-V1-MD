@@ -80,7 +80,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['Flash-Md', "safari", "1.0.0"],
+            browser: ['Dexter-Md', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [FranceKing, FranceKing1,FranceKing2,FranceKing3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{FLASH-MD}...[][]");
+            console.log("\t [][]...{DEXTER-MD}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message from the group : " + nomGroupe);
@@ -670,7 +670,7 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `◇FLASH-MD◇
+            let msg = `◇DEXTER-MD◇
 `;
              
             let membres = group.participants;
@@ -688,11 +688,11 @@ zk.ev.on('group-participants.update', async (group) => {
 
 ${metadata.desc}
 
-📌Powred by *France King®🐐*`;
+📌Powred by *DEXTER🐐*`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
-            let msg = `Goodbye to that Fallen soldier, Powered by *FLASH-MD*;\n`;
+            let msg = `Goodbye to that Fallen soldier, Powered by *DEXTER-MD*;\n`;
 
             let membres = group.participants;
             for (let membre of membres) {
@@ -858,29 +858,29 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*『𝐅𝐋𝐀𝐒𝐇-𝐌𝐃 is CONNECTED』*
+*『𝗗𝗘𝗫𝗧𝗘𝗥-𝗠𝗗 is CONNECTED』*
 
      
-║❒Creator: *France King*
+║❒Creator: *𝗗𝗘𝗫𝗧𝗘𝗥,𝗥𝗖𝗗 𝗧𝗘𝗔𝗠*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
-║❒Created on : *22.2.2024*
+║❒Created on : *22.3.2024*
 ║❒Total Commands : ${evt.cm.length}︎
 
      ▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
      ▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
  
-║❒ _Join *FLASH-MD* Channel for Updates_
-https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P
+║❒ _Join *DEXTER-MD* Channel for Updates_
+https://whatsapp.com/channel/0029VaOoODA65yDHLCqskX11
 
 ║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-https://chat.whatsapp.com/CtBGmUkwXiA6kGYAyU5MaX
+https://chat.whatsapp.com/KnI2FQc70Nb88L0cGyrJKa
 
 ║❒ *FOLLOW THE DEVELOPER* 🪄 
-https://instagram.com/france.king1 
+https://www.tiktok.com/@dexter___7739?_t=8ktmNXSpp22&_r=1? 
 
 
-              *𝐅𝐋𝐀𝐒𝐇-𝐌𝐃*`;
+              *𝐃𝐄𝐗𝐓𝐄𝐑-𝐌𝐃*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }

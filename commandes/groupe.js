@@ -31,7 +31,7 @@ zokou({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
   let membresGroupe = verifGroupe ? await infosGroupe.participants : ""
   var tag = ""; 
   tag += `========================\n  
-        🌟 *FLASH-MD* 🌟
+        🌟 *DEXTER-MD* 🌟
 ========================\n
 👥 Group : ${nomGroupe} 🚀 
 👤 Author : *${nomAuteurMessage}* 👋 
@@ -250,7 +250,7 @@ zokou({ nomCom: "remove", categorie: 'Group', reaction: "👨🏿‍💼" }, asy
             if (admin == false) {
               const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif"
               var sticker = new Sticker(gifLink, {
-                pack: 'FLASH-MD', // The pack name
+                pack: 'DEXTER-MD', // The pack name
                 author: nomAuteurMessage, // The author name
                 type: StickerTypes.FULL, // The sticker type
                 categories: ['🤩', '🎉'], // The sticker category

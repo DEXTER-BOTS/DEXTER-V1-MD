@@ -31,22 +31,22 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧𝐅𝐋𝐀𝐒𝐇-𝐌𝐃✧────◆
-│🌠 *Préfix* : ${s.PREFIXE}
-│🌠 *User* : ${s.OWNER_NAME}
-│🌠 *Mode* : ${mode}
-│🌠 *Commands* : ${cm.length} 
-│🌠 *Date* : ${date}
-│🌠 *Time* : ${temps} 
-│🌠 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│🌠 *Platform* : ${os.platform()}
-│🌠 *Developer* : 𝐅𝐫𝐚𝐧𝐜𝐞 𝐊𝐢𝐧𝐠 
-│🌠 *Version* : 𝐯7.5.25
-╰─────✧The-GOAT✧─────◆ \n\n`;
+╭────✧𝐃𝐄𝐗𝐓𝐄𝐑-𝐌𝐃✧────◆
+│⚔ *Préfix* : ${s.PREFIXE}
+│⚔ *User* : ${s.OWNER_NAME}
+│⚔ *Mode* : ${mode}
+│⚔ *Commands* : ${cm.length} 
+│⚔ *Date* : ${date}
+│⚔ *Time* : ${temps} 
+│⚔ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│⚔ *Platform* : ${os.platform()}
+│⚔ *Developer* : 𝐃𝐄𝐗𝐓𝐄𝐑,𝐑𝐂𝐃 𝐓𝐄𝐀𝐌
+│⚔ *Version* : 𝐯7.5.25
+╰─────✧⚔𝐅𝐔𝐂𝐊⚔✧─────◆ \n\n`;
 
   let menuMsg=`  
 
-*FLASH-MD COMMANDS :*
+*𝐃𝐄𝐗𝐓𝐄𝐑-𝐌𝐃 COMMANDS :*
 ◇                             ◇
 `;
 
@@ -64,7 +64,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *————— ★ —————*
 
-  *📌France King®🐐²0²⁴*                                         
+  *📌𝐃𝐄𝐗𝐓𝐄𝐑*                                         
 *╰═════════════⊷*
 `;
 

@@ -1,4 +1,4 @@
-►const util = require('util');
+const util = require('util');
 const fs = require('fs-extra');
 const { zokou } = require(__dirname + "/../framework/zokou");
 const { format } = require(__dirname + "/../framework/mesfonctions");
@@ -32,21 +32,21 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭────✧𝐃𝐄𝐗𝐓𝐄𝐑-𝐌𝐃✧────◆
-│⚔ *Préfix* : ${s.PREFIXE}
-│⚔ *User* : ${s.OWNER_NAME}
-│⚔ *Mode* : ${mode}
-│⚔ *Commands* : ${cm.length} 
-│⚔ *Date* : ${date}
-│⚔ *Time* : ${temps} 
-│⚔ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│⚔ *Platform* : ${os.platform()}
-│⚔ *Developer* : 𝐃𝐄𝐗𝐓𝐄𝐑,𝐑𝐂𝐃 𝐓𝐄𝐀𝐌
-│⚔ *Version* : 𝐯7.5.25
-╰─────✧⚔𝐅𝐔𝐂𝐊⚔✧─────◆ \n\n`;
+│🌠 *Préfix* : ${s.PREFIXE}
+│🌠 *User* : ${s.OWNER_NAME}
+│🌠 *Mode* : ${mode}
+│🌠 *Commands* : ${cm.length} 
+│🌠 *Date* : ${date}
+│🌠 *Time* : ${temps} 
+│🌠 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│🌠 *Platform* : ${os.platform()}
+│🌠 *Developer* : 𝐃𝐄𝐗𝐓𝐄𝐑
+│🌠 *Version* : 𝐯7.5.25
+╰─────✧The-GOAT✧─────◆ \n\n`;
 
   let menuMsg=`  
 
-*𝐃𝐄𝐗𝐓𝐄𝐑-𝐌𝐃 COMMANDS :*
+*DEXTER-MD COMMANDS :*
 ◇                             ◇
 `;
 
@@ -64,7 +64,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *————— ★ —————*
 
-  *📌𝐃𝐄𝐗𝐓𝐄𝐑*                                         
+  *📌DEXTER©🐐²0²⁴*                                         
 *╰═════════════⊷*
 `;
 
@@ -82,7 +82,7 @@ const date = moment().format('DD/MM/YYYY');
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "*⚔DEXTER⚔*" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "*📌Dexter*" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);

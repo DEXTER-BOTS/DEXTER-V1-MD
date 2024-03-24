@@ -1,5 +1,5 @@
  <h1 align="center" ⚔ DEXTER MD ⚔ </h1>
-<p align="center"> DEXTER-MD, A Simple WhatsApp user BOT, Created by Rcd team.
+<p align="center"> DEXTER-MD, ⚔ Simple WhatsApp user BOT ⚔, Created by Rcd team.
 </p>
 
 

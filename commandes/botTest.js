@@ -15,7 +15,7 @@ zokou({ nomCom: 'test',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
     const { start} = new Date().getTime()
-    return repondre('*DEXTER-MD is ALIVE*\n ```' + Responding at 2000 + '``` *ms*') 
+    return repondre('*𝗗𝗘𝗫𝗧𝗘𝗥-MD is ALIVE*\n ```' + Responding at 2000 + '``` *ms*') 
     const { end } = new Date().getTime()
     await zok.sendMessage('*Pong!*\n ```' + (end - start) + '``` *ms*')
   }

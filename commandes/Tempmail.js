@@ -1,19 +1,19 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
-zokou({ nomCom: "tempmail", reaction: "😌", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "tempmail", reaction: "😾", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '*FLASH-MD* Temporary emails,Powered by *France King* \n\n ' + "Click the link below to create unlimited TEMPORARY Emails. Powered by *FLASH-MD.*";
+    let z = '*DEXTER-MD* Temporary emails,Powered by *France King* \n\n ' + "Click the link below to create unlimited TEMPORARY Emails. Powered by *DEXTER-MD.*";
     let d = ' https://email10min.com';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/f1f2303ff4e39b0a3b6b3.jpg';
+    var img = 'https://telegra.ph/file/7a8bf9f622dd6ccb403df.mp4';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
 console.log("mon test");
 /*module.exports.commande = () => {
   var nomCom = ["test","t"]
-  var reaction="☺️"
+  var reaction="📌 "
   return { nomCom, execute,reaction }
 };
 

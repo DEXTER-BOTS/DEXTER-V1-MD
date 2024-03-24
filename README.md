@@ -10,7 +10,7 @@
 ### Setup
 
 **📌DEPLOY ON HEROKU**
-   - ***Click [`FORK`](https://github.com/DEXTER-BOT-1/DEXTER-V1-MD/fork) and `Star ⭐ Repository` for Courage.***
+   - ***Click [`FORK`](https://github.com/Purnageethanajana/DEXTER-V1-MD/fork) and `Star ⭐ Repository` for Courage.***
    - ***`Get Session` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://flashmd-session-5fea4d73011f.herokuapp.com/pair) Then `Go-to Whatapp>Three dots>Linked Devices`***
    - You will get a session ID in WhatsApp, copy the ID only.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**

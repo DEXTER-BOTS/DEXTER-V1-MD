@@ -32,6 +32,13 @@
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Purnageethanajana/DEXTER-V1-MD/)
 
    </details>
+</P>
+
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPurnageethanjana%2FDEXTER-V1-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+
+![forks](https://img.shields.io/github/forks/Purnageethanjana/DEXTER-V1-MD?label=Forks&style=social)
+
+
 
 ## Contributions
 
@@ -44,7 +51,5 @@ The DEXTER-MD is released.
 Enjoy the diverse features of the DEXTER-MD  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
-
-- [**Instagram**](https://instagram.com/france.king1)
 - [**WhatsApp**](https://wa.me/94789958225)
 

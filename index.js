@@ -428,7 +428,7 @@ function mybotpic() {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'Flash-Md',
+                                        pack: 'dexter-Md',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -526,7 +526,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Flash-Md',
+                pack: 'Dexter-Md',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -832,7 +832,7 @@ ${metadata.desc}
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
                             require(__dirname + "/commandes/" + fichier);
-                            console.log(fichier + " installé ✔️");
+                            console.log(fichier + " installé ✔️ dexter md");
                         }
                         catch (e) {
                             console.log(`${fichier} n'a pas pu être chargé pour les raisons suivantes : ${e}`);
@@ -861,20 +861,21 @@ ${metadata.desc}
 *『𝗗𝗘𝗫𝗧𝗘𝗥-𝗠𝗗 is CONNECTED』*
 
      
-║❒Creator: *𝗗𝗘𝗫𝗧𝗘𝗥,𝗥𝗖𝗗 𝗧𝗘𝗔𝗠*
+║❒Creator: *𝗗𝗘𝗫𝗧𝗘𝗥*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
 ║❒Created on : *22.3.2024*
 ║❒Total Commands : ${evt.cm.length}︎
 
-     ▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
-     ▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
+     You’re
+█▄█ █▀█ ▀█▀
+█▀█ █▄█    █♡
  
 ║❒ _Join *DEXTER-MD* Channel for Updates_
 https://whatsapp.com/channel/0029VaOoODA65yDHLCqskX11
 
 ║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-https://chat.whatsapp.com/KnI2FQc70Nb88L0cGyrJKa
+https://chat.whatsapp.com/KGtgYAU9Qv14v5iU0qBUbV
 
 ║❒ *FOLLOW THE DEVELOPER* 🪄 
 https://www.tiktok.com/@dexter___7739?_t=8ktmNXSpp22&_r=1? 

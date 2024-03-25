@@ -72,15 +72,15 @@
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
     "required": false,
     "value": "DEXTER"
   },
     "OWNER_NUMBER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
-    "required":true,
+    "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
+    "required":false,
     "value": "94789958225"
   },
     "WARN_COUNT":

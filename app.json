@@ -41,8 +41,8 @@
     } ,
      "BOT_MENU_LINKS" : {
     
-      "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/0fe7102c0dd16b338f1b6.jpg",
+      "description":"📌 Dont change ",
+      "value":"https://telegra.ph/file/e716c8220c20e3845f2cf.mp4",
       "required":false
        
      },
@@ -80,7 +80,7 @@
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
-    "required":false,
+    "required":true,
     "value": "94789958225"
   },
     "WARN_COUNT":

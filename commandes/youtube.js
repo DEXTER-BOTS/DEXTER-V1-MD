@@ -106,7 +106,7 @@ zokou({
         caption: `*Video name :* _${Element.title}_
 *Time :* _${Element.timestamp}_
 *Url :* _${Element.url}_
-_*On downloading...*_\n\n`
+_*DEXTER-MD VIDEO DOWNLOADING......*_\n\n`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });

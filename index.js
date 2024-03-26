@@ -858,31 +858,26 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
+*『𝐃𝐄𝐗𝐓𝐄𝐑-𝐌𝐃 is CONNECTED』*
+
+     
+║❒Creator: *𝐃𝐄𝐗𝐓𝐄𝐑*
+║❒Prefix : [ ${prefixe} ]
+║❒Mode :${md}
+║❒Created on : *22.3.2024*
+║❒Total Commands : ${evt.cm.length}︎
+
+     ▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
+     ▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
+ 
+║❒ _Join *𝐃𝐄𝐗𝐓𝐄𝐑-MD* Channel for Updates_
+https://whatsapp.com/channel/0029VaOoODA65yDHLCqskX11
+
+║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
+https://chat.whatsapp.com/KGtgYAU9Qv14v5iU0qBUbV
 
 
-*✅ᴅᴇxᴛᴇʀ ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ✅*
-*Made With 💜*
-*By ᴅᴇxᴛᴇʀ💜*
-____________________________________
-╔════◇
-║『 𝐖𝐎𝐖 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐃𝐄𝐗𝐓𝐄𝐑 𝐌𝐃 』
-║ You've Completed the First Step
-║ to Deploy a Whatsapp Bot.
-╚════════════════════╝
-╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: https://youtube.com/@Dextertoola999?
-║❒ 𝐎𝐰𝐧𝐞𝐫: https://wa.me/message/LLGU3TSNGKH6J1
-║❒ 𝐑𝐞𝐩𝐨: _https://github.com/DEXTER-BOT-1/DEXTER-V1-MD_
-║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/KGtgYAU9Qv14v5iU0qBUbV_
-║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaOoODA65yDHLCqskX11_
-║❒ 𝐏𝐥𝐮𝐠𝐢𝐧𝐬: 📌  *Coming Soon*
-║    💜💜💜
-╚════════════════════╝ 
-*©²⁰²⁴ ᴰᴱˣᵀᴱᴿ ᵂᴴᴬᵀˢᴬᴾᴾ ᴮᴼᵀˢ*
-___________________________________
-
-Don't Forget To Give Star⭐ To My Repo
+              *𝐃𝐄𝐗𝐓𝐄𝐑-𝐌𝐃*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }

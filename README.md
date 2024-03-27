@@ -19,9 +19,6 @@
 
 **`DEPLOYMENT METHODS`**
 
- <details close>
-<summary> DEPLOYMENT METHODS </summary>
-  
 ## QR SCAN PAIRING CODE
 [𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘](https://dexter-md-pair-code-2535d3cf470f.herokuapp.com/)
 

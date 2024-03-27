@@ -23,7 +23,7 @@
 <summary> DEPLOYMENT METHODS </summary>
   
 ## QR SCAN PAIRING CODE
-[Pair code](https://dexter-md-pair-code-2535d3cf470f.herokuapp.com/)
+[𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘](https://dexter-md-pair-code-2535d3cf470f.herokuapp.com/)
 
 ## `Scan QR Code For Session`
 

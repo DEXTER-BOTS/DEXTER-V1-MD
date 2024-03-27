@@ -26,7 +26,7 @@
 
 # 
 
-* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`]([https://replit.com/@MRNima/QUEEN-ELISA-MULTIAUTH-QR-SCANER](https://dexter-md-pair-code-2535d3cf470f.herokuapp.com/))
+* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`]([https://dexter-md-pair-code-2535d3cf470f.herokuapp.com/])
 
 
 ## DEPLOY IN HEROKU

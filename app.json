@@ -96,7 +96,10 @@
     "value": "yes"
   },
   "PRESENCE":{
-    "description":"1 always online,2 Auto typing always,3 Recording audio.... always type choice number 📌",
+    "description":"📌 ALWAYS ONLINE  1
+📌 TYPING                   2
+📌 RECORDING AUDIO.... 3
+🌟 ඔයාට ඔන අංකය type කරන්න 🌟",
     "value":"",
     "required": false
   }  

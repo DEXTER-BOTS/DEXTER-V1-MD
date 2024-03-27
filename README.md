@@ -24,10 +24,10 @@
   
 ## QR SCAN PAIRING CODE
 
-# 
 
-* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`]([https://dexter-md-pair-code-2535d3cf470f.herokuapp.com/])
+## `Scan QR Code For Session`
 
+[![DEXTER Bot](https://dexter-md-pair-code-2535d3cf470f.herokuapp.com/)
 
 ## DEPLOY IN HEROKU
 

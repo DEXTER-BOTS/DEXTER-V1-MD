@@ -24,7 +24,7 @@
   
 ## QR SCAN PAIRING CODE
 
-- ***`Get Session` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://flashmd-session-5fea4d73011f.herokuapp.com/pair) Then `Go-to Whatapp>Three dots>Linked Devices`***<
+- ***`[`PAIRING CODE`]([https://flashmd-session-5fea4d73011f.herokuapp.com/pair](https://dexter-md-pair-code-2535d3cf470f.herokuapp.com/)) Then `Go-to Whatapp>Three dots>Linked Devices`***<
 
 
 ## DEPLOY IN HEROKU

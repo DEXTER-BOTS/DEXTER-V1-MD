@@ -14,7 +14,7 @@
 **📌DEPLOY ON HEROKU**
    - ***Click [`FORK`](https://github.com/Purnageethanajana/DEXTER-V1-MD/fork) and `Star ⭐ Repository` for Courage.***
    - You will get a session ID in WhatsApp, copy the ID only.
-   - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
+   - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**p
 </p>
 
 **`DEPLOYMENT METHODS`**
@@ -23,11 +23,10 @@
 <summary> DEPLOYMENT METHODS </summary>
   
 ## QR SCAN PAIRING CODE
-
+[Pair code](https://dexter-md-pair-code-2535d3cf470f.herokuapp.com/)
 
 ## `Scan QR Code For Session`
 
-[![💥](https://dexter-md-pair-code-2535d3cf470f.herokuapp.com/)
 
 ## DEPLOY IN HEROKU
 

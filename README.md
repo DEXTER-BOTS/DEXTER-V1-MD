@@ -20,7 +20,8 @@
 **`DEPLOYMENT METHODS`**
 
 ## QR SCAN PAIRING CODE
-[𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘](https://dexter-md-pair-code-2535d3cf470f.herokuapp.com/)
+
+<a href="https://dexter-md-pair-code-2535d3cf470f.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 ## `Scan QR Code For Session`
 

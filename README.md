@@ -27,7 +27,7 @@
 
 ## `Scan QR Code For Session`
 
-[![DEXTER Bot](https://dexter-md-pair-code-2535d3cf470f.herokuapp.com/)
+[![💥](https://dexter-md-pair-code-2535d3cf470f.herokuapp.com/)
 
 ## DEPLOY IN HEROKU
 

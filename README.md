@@ -19,11 +19,11 @@
 
 **`DEPLOYMENT METHODS`**
 
-## QR SCAN PAIRING CODE
+##  PAIRING CODE SCAN
 
 <a href="https://dexter-md-pair-code-2535d3cf470f.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
-## `Scan QR Code For Session`
+## QR CODE SCAN
 
 <a href="https://dexter--7-62f45bcdac73.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 ## DEPLOY IN HEROKU

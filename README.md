@@ -25,8 +25,7 @@
 
 ## `Scan QR Code For Session`
 
-<a href="https://dexter--7-62f45bcdac73.herokuapp.com/"><https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-blue"alt="LOGIN WITH QR CODE" width="250"></a>
-
+<a href="https://dexter--7-62f45bcdac73.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 ## DEPLOY IN HEROKU
 
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Purnageethanajana/DEXTER-V1-MD/)

@@ -15,7 +15,7 @@ zokou({
   const { ms, repondre, arg } = commandeOptions;
      
   if (!arg[0]) {
-    repondre("wich song do you want.");
+    repondre(" *ඔයාට download කරන්න ඔන song name එක type කරන්න* ");
     return;
   }
 

@@ -32,16 +32,16 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭────✧𝐃𝐄𝐗𝐓𝐄𝐑-𝐌𝐃✧────◆
-│🌠 *Préfix* : ${s.PREFIXE}
-│🌠 *User* : ${s.OWNER_NAME}
-│🌠 *Mode* : ${mode}
-│🌠 *Commands* : ${cm.length} 
-│🌠 *Date* : ${date}
-│🌠 *Time* : ${temps} 
-│🌠 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│🌠 *Platform* : ${os.platform()}
-│🌠 *Developer* : 𝐃𝐄𝐗𝐓𝐄𝐑
-│🌠 *Version* : 𝐯7.5.25
+│♨ *Préfix* : ${s.PREFIXE}
+│♨ *User* : ${s.OWNER_NAME}
+│♨ *Mode* : ${mode}
+│♨ *Commands* : ${cm.length} 
+│♨ *Date* : ${date}
+│♨ *Time* : ${temps} 
+│♨ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│♨ *Platform* : ${os.platform()}
+│♨ *Developer* : 𝐃𝐄𝐗𝐓𝐄𝐑
+│♨ *Version* : 𝐯7.5.25
 ╰─────✧The-GOAT✧─────◆ \n\n`;
 
   let menuMsg=`  

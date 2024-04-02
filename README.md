@@ -20,7 +20,7 @@
 
 <a href="https://web-developer-835fc13471d9.herokuapp.com/"><img src="https://img.shields.io/badge/DEXTER-WEB%20SITE-red" alt="DEXTER WEB SITE" width="250"></a>
 
-**`DEPLOYMENT METHODS`**
+**`𝗗𝗘𝗫𝗧𝗘𝗥 𝗠𝗗 𝗕𝗢𝗧`**
 
 ##  PAIRING CODE SCAN
 

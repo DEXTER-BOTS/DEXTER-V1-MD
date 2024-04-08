@@ -1,9 +1,9 @@
 {
-  "name":"DEXTER-V1-MD",
+  "name":"KAVISHAN-V1-MD",
   "description":"An easy and simple WhatsApp bot developed by France King",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/57c3083b60b2bea6ec132.jpg",
-  "repository":"https://github.com/Purnageethanajana/DEXTER-V1-MD/",
+  "repository":"https://github.com/Purnageethanajana/KAVISHAN-V1-MD/",
   "succes_url":"/",
   "stack":"container",
   "env":{

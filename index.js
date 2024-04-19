@@ -428,7 +428,7 @@ function mybotpic() {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'Dexter-Md',
+                                        pack: 'Chamod-Md',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -526,7 +526,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Dexter-Md',
+                pack: 'Chamod-Md',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -688,11 +688,11 @@ zk.ev.on('group-participants.update', async (group) => {
 
 ${metadata.desc}
 
-📌Powred by *DEXTER King®🐐*`;
+📌Powred by *CHAMOD King®🐼*`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
-            let msg = ` *Goodbye Frinds group owner මෙත දැනුවත් කිරිමකි එක් පුද්ගලයෙක් group එකෙන් left උවා 📌 [POWER BY DEXTER]*\n`;
+            let msg = ` *Goodbye Frinds group owner මෙත දැනුවත් කිරිමකි එක් පුද්ගලයෙක් group එකෙන් left උවා 📌 [POWER BY CHAMOD]*\n`;
 
             let membres = group.participants;
             for (let membre of membres) {
@@ -870,14 +870,14 @@ ${metadata.desc}
      ▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
      ▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
  
-║❒ _Join *DEXTER-MD* Channel for Updates_
-https://whatsapp.com/channel/0029VaOoODA65yDHLCqskX11_
+║❒ _Join *Chamod-MD* Group  for Updates_
+https://https://chat.whatsapp.com/DwWafB5tzoEC7JvYc0le8z_
 
-║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-https://chat.whatsapp.com/KGtgYAU9Qv14v5iU0qBUbV 
+║❒ *JOIN OUR Gʀᴏᴜᴘ*
 
 
-              *DEXTER-MD*`;
+
+              *CHAMOD-MD*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }

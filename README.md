@@ -6,7 +6,7 @@
 </p>
 
 
-<img src="https://telegra.ph/file/7d08ef891cbe7d31e682b.jpg" width="540" height="280" />
+<img src="[https://telegra.ph/file/7d08ef891cbe7d31e682b.jpg](https://telegra.ph/file/d4bedee682d1bc2a7dae6.jpg)" width="540" height="280" />
 </p>         ⚔ 𝐃𝐄𝐗𝐓𝐄𝐑 𝐌𝐃 ⚔
 
 ### Setup

@@ -18,7 +18,7 @@
 </p>
 🌟 𝗗𝗘𝗫𝗧𝗘𝗥 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘 🌟
 
-<a href="https://new-repo-zmv6.vercel.app/"><img src="https://img.shields.io/badge/DEXTER-WEB%20SITE-red" alt="DEXTER WEB SITE" width="250"></a>
+<a href="https://new-repo-hazel-three.vercel.app/"><img src="https://img.shields.io/badge/DEXTER-WEB%20SITE-red" alt="DEXTER WEB SITE" width="250"></a>
 
 **`𝗗𝗘𝗫𝗧𝗘𝗥 𝗠𝗗 𝗕𝗢𝗧`**
 

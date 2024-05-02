@@ -24,7 +24,7 @@
 
 ##  PAIRING CODE SCAN
 
-<a href="https://dexter-222-1cb2ffa98150.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://dexter-md.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 ## QR CODE SCAN
 

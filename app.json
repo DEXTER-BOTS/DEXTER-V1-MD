@@ -21,7 +21,7 @@
     }, "AUTO_DOWNLOAD_STATUS":
     {
       "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
     ,
@@ -93,7 +93,7 @@
   {
     "description": "if you don't want startting-bot-message put no else put yes",
     "required": true,
-    "value": "yes"
+    "value": "no"
   },
   "PRESENCE":{
     "description":"📌 ALWAYS ONLINE 1 /📌 TYPING 2 /📌 RECORDING AUDIO.... 3🌟 ඔයාට ඔන අංකය type කරන්න 🌟",
